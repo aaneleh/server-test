@@ -14,4 +14,4 @@ App com express e mysql para selecionar e visualizar um banco de dados
 
 4. Rode o comando `npm i` para instalar as dependencias 
 
-5. Rode `node index.js` e entre em `http://localhost:1337`
+5. Rode `node index.js` e entre em [http://localhost:1337](http://localhost:1337)
