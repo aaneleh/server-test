@@ -9,7 +9,7 @@ App com express e mysql para selecionar e visualizar um banco de dados
 2. Abra a pasta e crie um arquivo `.env`
 
 3. Adicione ao .env as variável `DB_HOST`, `DB_USER`, `DB_PASS` e `DB_NAME`
-![exemplo de variaveis no .env](https://imgur.com/a/g1asX6i)
+![exemplo de variaveis no .env](https://imgur.com/a/PxhxNUe)
 
 
 4. Rode o comando `npm i` para instalar as dependencias 
